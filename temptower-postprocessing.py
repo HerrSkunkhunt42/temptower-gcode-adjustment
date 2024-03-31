@@ -1,6 +1,8 @@
 import os
+
 if not os.path.isdir("./output"):
     os.mkdir("./output")
+    
 gcode_file_path = "./Temptower.gcode"
 gcode_output_file_path = "./output/new_Temptower.gcode"
 temp = 250
