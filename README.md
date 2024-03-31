@@ -1,7 +1,7 @@
 # temptower-gcode-adjustment
 Set the temperature adjustment for your temptower gcode file.
 This is a python-postprocessing-script for temptower gcode files.
-Enter the values ​​you use from your slicer in the temptower-postprocessing.py file instead of the default values.
+Enter the values ​​you use in your slicer in the temptower-postprocessing.py file instead of the default values with an texteditor of your choice.
 
 ## Configuration:
 - Set the filepath of your gcode.
